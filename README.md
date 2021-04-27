@@ -28,4 +28,4 @@ Cada objeto terá uma URL, mas só será possível de ver no _browser_ se tiver 
 
 ### _Storage class_
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Classes do S3](https://github.com/Cicconella/coursera-aws-s3-basics/blob/main/S3-Storage-Classes-Performance.png)
